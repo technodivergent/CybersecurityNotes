@@ -4,5 +4,9 @@
   "baseFontSize": 14,
   "cssTheme": "Minimal",
   "translucency": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "inline-codeblock-padding"
+  ],
+  "monospaceFontFamily": "Lucida Console"
 }

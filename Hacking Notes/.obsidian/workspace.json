@@ -10,16 +10,31 @@
           {
             "id": "f897b07f64ea0835",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web App Testing/Web Directory Discovery.md",
+                "file": "1. Recon & Enumeration/Infrastructure Enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "295f785f327e700d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Recon & Enumeration/Networking/Network Service Discovery.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web App Testing/Web Directory Discovery.md"
+                "file": "1. Recon & Enumeration/Networking/Network Service Discovery.md"
               }
             }
           },
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web App Testing/Web Directory Discovery.md",
+                "file": "1. Recon & Enumeration/Networking/Network Service Discovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web App Testing/Web Directory Discovery.md",
+                "file": "1. Recon & Enumeration/Networking/Network Service Discovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,20 +169,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f49eda814a5b4db",
+  "active": "295f785f327e700d",
   "lastOpenFiles": [
+    "5. PrivEsc & Movement/Linux/Linux Escalation.md",
     "1. Recon & Enumeration/Networking/Network Service Discovery.md",
-    "1. Recon & Enumeration/Networking/Network Service Discovery.md",
+    "1. Recon & Enumeration/Account Discovery.md",
+    "1. Recon & Enumeration/Infrastructure Enumeration.md",
     "1. Recon & Enumeration/Networking/Network Scanning.md",
+    "1. Recon & Enumeration/pentest-labyrinth.png",
+    "1. Recon & Enumeration/pentest-labyrinth.png.crdownload",
+    "2. Gaining Access/Active Directory/LLMNR Poisoning.md",
+    "1. Recon & Enumeration/enum-method3.png",
+    "1. Recon & Enumeration/enum-method3.png.crdownload",
+    "Web App Testing/Web Directory Discovery.md",
     "4. Exploitation/Reverse & Bind Shells.md",
     "00. Cheat Sheets/00 Cheat Sheet.md",
     "5. PrivEsc & Movement/Windows/Resources & Tools for PrivEsc.md",
-    "5. PrivEsc & Movement/Linux/Linux Escalation.md",
     "5. PrivEsc & Movement/Windows/Windows Escalation Techniques.md",
     "5. PrivEsc & Movement/Windows/Token-based Impersonation.png",
     "5. PrivEsc & Movement/Windows/Common Tools.md",
     "Systems & Information Technology/Active Directory Notes.md",
-    "2. Gaining Access/Active Directory/LLMNR Poisoning.md",
     "Systems & Information Technology/Pasted image 20230407212330.png",
     "Untitled.canvas",
     "Systems & Information Technology/Building Active Directory Lab.md",
@@ -180,23 +201,17 @@
     "2. Gaining Access/Credentials/Brute Force Login.md",
     "4. Exploitation/Shells.md",
     "4. Exploitation/Shells",
-    "Web App Testing/Web Directory Discovery.md",
     "0. Engagement Meta/Stages of Penetration Testing.md",
     "0. Engagement Meta/Laws and Regulations.md",
     "0. Engagement Meta/Staying Organized.md",
     "00. Cheat Sheets",
     "0. Engagement Meta/Stages/Pre-Engagement.md",
     "0. Engagement Meta/Stages",
-    "2. Gaining Access/Credentials/Password Harvesting.md",
-    "2. Gaining Access/Credentials/Hash Attacks.md",
-    "1. Recon & Enumeration/Finding Subdomains.md",
     "4. Exploitation/Web Exploits",
     "2. Gaining Access/Active Directory",
     "1. Intelligence Gathering/Data Breaches",
     "1. Intelligence Gathering/Exploring Target",
     "Reporting",
-    "3. Vulnerability Analysis",
-    "1. Intelligence Gathering/OSINT",
     "13. Exfiltration/Untitled.canvas",
     "Pasted image 20230405002624.png"
   ]
